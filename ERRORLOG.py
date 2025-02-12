@@ -482,10 +482,10 @@ def process_log_and_write_output(parsed_data, input_file_name):
                 rtc = parts[2]
                 pow_state_value = int(parts[3], 16)
                 upcause_value = int(parts[4], 16)
-                seq_no = parts[5]
-                devpm_value = int(parts[6], 16)
-                t_soc = parts[7]
-                t_env = parts[8]
+                seq_no = parts[6]
+                devpm_value = int(parts[7], 16)
+                t_soc = parts[8]
+                t_env = parts[9]
 
                 # Get descriptions for each piece of data
                 seq_description = get_seq_description(seq_no)
