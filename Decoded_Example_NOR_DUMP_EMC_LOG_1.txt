@@ -1,0 +1,728 @@
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 24.83°C,
+ T(Env): 35.25°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 24.83°C,
+ T(Env): 35.25°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 24.83°C,
+ T(Env): 35.25°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 24.82°C,
+ T(Env): 35.25°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0004 (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V)
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0006 (Unknown SeqNo),
+ T(SoC): 29.15°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0004 (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V)
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0004 (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V)
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0004 (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC)
+ 
+Code: 80810001 (FORCE_Fatal_Off - PSQ Error),
+ SeqNo: 0004 (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC)
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.63°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: B0088108 (Unknown Code),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.63°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.63°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.63°C,
+ T(Env): 41.09°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.36°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.36°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: B0088108 (Unknown Code),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.36°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.36°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.37°C,
+ T(Env): 41.11°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.19°C,
+ T(Env): 46.14°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: B0088108 (Unknown Code),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.19°C,
+ T(Env): 46.14°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.19°C,
+ T(Env): 46.14°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.19°C,
+ T(Env): 46.16°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.19°C,
+ T(Env): 46.16°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.19°C,
+ T(Env): 46.16°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(CEC)
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 30.24°C,
+ T(Env): 35.23°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(CEC), USB
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 30.24°C,
+ T(Env): 35.23°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(CEC), USB
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 30.24°C,
+ T(Env): 35.23°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 30.24°C,
+ T(Env): 35.23°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 30.24°C,
+ T(Env): 35.23°C,
+ PowState: Unknown PowState,
+ UPCAUSE: EAP (EAP's order),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0006 (Unknown SeqNo),
+ T(SoC): 31.18°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 28.73°C,
+ T(Env): 43.71°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 28.73°C,
+ T(Env): 43.71°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 28.73°C,
+ T(Env): 43.73°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 28.73°C,
+ T(Env): 43.75°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 28.73°C,
+ T(Env): 43.76°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 29.51°C,
+ T(Env): 38.72°C,
+ PowState: Unknown PowState,
+ UPCAUSE: BT (Bluetooth),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: B0088108 (Unknown Code),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 29.51°C,
+ T(Env): 38.72°C,
+ PowState: Unknown PowState,
+ UPCAUSE: BT (Bluetooth),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 29.51°C,
+ T(Env): 38.72°C,
+ PowState: Unknown PowState,
+ UPCAUSE: BT (Bluetooth),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 29.51°C,
+ T(Env): 38.72°C,
+ PowState: Unknown PowState,
+ UPCAUSE: BT (Bluetooth),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 29.51°C,
+ T(Env): 38.72°C,
+ PowState: Unknown PowState,
+ UPCAUSE: BT (Bluetooth),
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0006 (Unknown SeqNo),
+ T(SoC): 32.25°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0006 (Unknown SeqNo),
+ T(SoC): 28.52°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: No Boot Cause,
+ devpm: HDMI(5V), BD DRIVE, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.41°C,
+ T(Env): 42.64°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.41°C,
+ T(Env): 42.66°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.41°C,
+ T(Env): 42.66°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 0016 (Unknown SeqNo),
+ T(SoC): 27.42°C,
+ T(Env): 42.67°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(5V), BD DRIVE, USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.8°C,
+ T(Env): 235.41°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: 00000000 (Unknown Code),
+ SeqNo: 0000 (Unknown SeqNo),
+ T(SoC): 0.0°C,
+ T(Env): 0.0°C,
+ PowState: ACIN_L Before Standby,
+ UPCAUSE: No Boot Cause,
+ devpm: No Device Power
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
+Code: FFFFFFFF (No Error),
+ SeqNo: FFFF (Unknown SeqNo),
+ T(SoC): 256.0°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: DEV UART, BT (Bluetooth), CEC (HDMI-CEC), EAP (EAP's order), Main SoC, Eject Button, Disc Loaded, Power Button, Boot-Up at power-on,
+ devpm: HDMI(5V), BD DRIVE, HDMI(CEC), USB, WLAN
+ 
