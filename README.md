@@ -45,5 +45,5 @@ devpm: HDMI(5V), BD DRIVE, WLAN
 
 1. **Clone or Download** this repository:
    ```sh
-   git clone https://github.com/your-repo/PS5-Crash-Error-Decoder.git
-   cd PS5-Crash-Error-Decoder
+   git clone https://github.com/apewalkers/PS5_NOR_Decode.git
+   cd PS5_NOR_Decode
