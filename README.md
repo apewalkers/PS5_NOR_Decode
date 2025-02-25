@@ -4,7 +4,7 @@ This Python script extracts crash error codes from a **PS5 NOR dump** or any oth
 
 ---
 
-## :tools: Features
+## 🛠 Features
 
 - Extracts **crash error codes** from PS5 NOR dump or `.BIN` files.
 - Generates two log files:
