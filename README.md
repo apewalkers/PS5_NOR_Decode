@@ -30,7 +30,7 @@ T(SoC): 24.83°C,\
 T(Env): 35.25°C,\
 PowState: Unknown PowState,\
 UPCAUSE: EAP (EAP's order),\
-devpm: HDMI(5V), BD DRIVE, WLAN```
+devpm: HDMI(5V), BD DRIVE, WLAN
 ```
 
 ---
