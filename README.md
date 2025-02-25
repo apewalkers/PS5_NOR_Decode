@@ -24,12 +24,12 @@ This Python script extracts crash error codes from a **PS5 NOR dump** or any oth
 
 ## :open_file_folder: Example Output
 
-Code: 80000009 (AC In Detect(12v)),_
-SeqNo: 0016 (Unknown SeqNo),_
-T(SoC): 24.83°C,_
-T(Env): 35.25°C,_
-PowState: Unknown PowState,_
-UPCAUSE: EAP (EAP's order),_
+Code: 80000009 (AC In Detect(12v)),__
+SeqNo: 0016 (Unknown SeqNo),__
+T(SoC): 24.83°C,__
+T(Env): 35.25°C,__
+PowState: Unknown PowState,__
+UPCAUSE: EAP (EAP's order),__
 devpm: HDMI(5V), BD DRIVE, WLAN
 
 ---
