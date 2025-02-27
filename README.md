@@ -24,13 +24,30 @@ This Python script extracts crash error codes from a **PS5 NOR dump** or any oth
 
 ## :open_file_folder: Example Output
 ```sh
-Code: 80000009 (AC In Detect(12v)),\
-SeqNo: 0016 (Unknown SeqNo),\
-T(SoC): 24.83°C,\
-T(Env): 35.25°C,\
-PowState: Unknown PowState,\
-UPCAUSE: EAP (EAP's order),\
-devpm: HDMI(5V), BD DRIVE, WLAN
+Code: B0088108 (Rebuild DBI Fail),
+ SeqNo: 217B (Dev WLAN BT RESET ASSERT NEGATE),
+ T(SoC): 50.88°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: No Device Powe
+ 
+Code: C0020303 (Main SoC Access Error (SB-TSI I2C)),
+ SeqNo: 217B (Dev WLAN BT RESET ASSERT NEGATE),
+ T(SoC): 50.88°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: No Device Powe
+ 
+Code: 80000009 (AC In Detect(12v)),
+ SeqNo: 217B (Dev WLAN BT RESET ASSERT NEGATE),
+ T(SoC): 60.17°C,
+ T(Env): 256.0°C,
+ PowState: Unknown PowState,
+ UPCAUSE: Main SoC,
+ devpm: HDMI(CEC)
+
 ```
 
 ---
@@ -48,3 +65,7 @@ devpm: HDMI(5V), BD DRIVE, WLAN
    ```sh
    git clone https://github.com/apewalkers/PS5_NOR_Decode.git
    cd PS5_NOR_Decode
+
+
+## :gift_heart: Donations:
+paypal.me/Dannyjohn08
